@@ -1,0 +1,16 @@
+﻿Der Buildvorgang wurde am 31.10.2016 12:00:01 gestartet.
+     1>Projekt "E:\UNI\Programmieren\Für a 24.10.2016\P4\P4A2\P4A2\P4A2.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt P4A2.cpp
+         P4A2.cpp
+     1>e:\uni\programmieren\für a 24.10.2016\p4\p4a2\p4a2\p4a2.cpp(43): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+     1>e:\uni\programmieren\für a 24.10.2016\p4\p4a2\p4a2\p4a2.cpp(48): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+     1>e:\uni\programmieren\für a 24.10.2016\p4\p4a2\p4a2\p4a2.cpp(53): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\UNI\Programmieren\Für a 24.10.2016\P4\P4A2\P4A2\Debug\P4A2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"E:\UNI\Programmieren\Für a 24.10.2016\P4\P4A2\P4A2\Debug\P4A2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\UNI\Programmieren\Für a 24.10.2016\P4\P4A2\P4A2\Debug\P4A2.lib" /MACHINE:X86 Debug\P4A2.obj
+         P4A2.vcxproj -> E:\UNI\Programmieren\Für a 24.10.2016\P4\P4A2\P4A2\Debug\P4A2.exe
+     1>Die Erstellung von Projekt "E:\UNI\Programmieren\Für a 24.10.2016\P4\P4A2\P4A2\P4A2.vcxproj" ist abgeschlossen (Build Ziel(e)).
+
+Der Buildvorgang wurde erfolgreich ausgeführt.
+
+Verstrichene Zeit 00:00:09.52
